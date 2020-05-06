@@ -1,4 +1,4 @@
-# emergencyMap readme
+# Nuxt project readme
 
     > this is an emergency map
 
