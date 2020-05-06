@@ -20,6 +20,7 @@
     ```
 
     For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+  ***
 # Emergency map readme 
  ## Description: 
   This Nuht web map project is dedicated to working with geodata related to emergencies. It allows you to: select an area, calculate the area of the selected area, calculate the distance between objects, save the geodata as a separate layer.
