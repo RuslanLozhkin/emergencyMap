@@ -21,7 +21,7 @@
 
     For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 # Emergency map readme 
- ## Description 
+ ## Description: 
   This Nuht web map project is dedicated to working with geodata related to emergencies. It allows you to: select an area, calculate the area of the selected area, calculate the distance between objects, save the geodata as a separate layer.
 
   ## Tools used:
@@ -33,6 +33,6 @@
   Mongodb - [mongodb docs](https://docs.mongodb.com/) [mongoose docs](https://mongoosejs.com/docs/api.html)<br>
   Express - [Express docs](https://expressjs.com/ru/api.html)<br>
   ## Site Address:
-    https:// additlater.com
+    $ https:// additlater.com
   ## Access to the site:
     New user has no permissions to manage geodata. New user has to get permissions from administrator
