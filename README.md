@@ -23,7 +23,8 @@
   ***
 # Emergency map readme 
  ## Description: 
-  This Nuht web map project is dedicated to working with geodata related to emergencies. It allows you to: select an area, calculate the area of the selected area, calculate the distance between objects, save the geodata as a separate layer.
+  > This Nuht web map project is dedicated to working with geodata related to emergencies. It allows you to: select an area, calculate the area of the selected area, 
+  > calculate the distance between objects, save the geodata as a separate layer.
 
   ## Tools used:
   Nuxt -  [Nuxt docs](https://nuxtjs.org)<br>
