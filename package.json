@@ -1,0 +1,32 @@
+{
+  "name": "emergencyMap",
+  "version": "1.0.0",
+  "description": "this is an emergency map",
+  "author": "Ruslan Lozhkin",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.1.2",
+    "@mdi/js": "^5.1.45",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "@turf/turf": "^5.1.6",
+    "mapbox-gl": "^1.10.0",
+    "nuxt": "^2.0.0",
+    "vue-mapbox": "^0.4.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0",
+    "@nuxtjs/eslint-config": "^2.0.0",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2"
+  }
+}
