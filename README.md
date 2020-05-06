@@ -27,7 +27,8 @@
   ## Tools used:
   Nuxt -  [Nuxt docs](https://nuxtjs.org)<br>
   Vuetify -  [Vuetify docs](https://vuetifyjs.com/ru/getting-started/quick-start/)<br>
-  Mapbox -  [Mapbox docs](https://www.mapbox.com/) [Mapbox-vue docs]([https://soal.github.io/vue-mapbox/guide/#using-as-es-module)<br>
+  Mapbox -  [Mapbox docs](https://www.mapbox.com/)<br>
+  Mapbox-vue - [Mapbox-vue docs]([https://soal.github.io/vue-mapbox/guide/#using-as-es-module)<br>
   NodeJs - [Node js docs](https://nodejs.org/dist/latest-v12.x/docs/api/)<br>
   Mongodb - [mongodb docs](https://docs.mongodb.com/) [mongoose docs](https://mongoosejs.com/docs/api.html)<br>
   Express - [Express docs](https://expressjs.com/ru/api.html)<br>
