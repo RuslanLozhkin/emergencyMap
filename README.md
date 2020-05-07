@@ -1,6 +1,6 @@
 # Nuxt project readme
 
-    > this is an emergency map
+   > this is an emergency map
 
     ## Build Setup
 
