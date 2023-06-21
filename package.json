@@ -18,7 +18,7 @@
     "@nuxtjs/pwa": "^3.0.0-0",
     "@turf/turf": "^5.1.6",
     "mapbox-gl": "^1.10.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "vue-mapbox": "^0.4.1"
   },
   "devDependencies": {
